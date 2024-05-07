@@ -7,12 +7,14 @@ categories:
   - website
 ---
 
-## Overview
+# Overview
 ![](/assets/MECHMAYHEM.png)
 "Mech Mayhem" is a 3D mech shooter made with Unreal Engine 5.1.
 
 I was the art-lead in this project, and took care of the workflows, art-style and task distribution within this project.
 I also had some level designing and level building with other tasks. 
+
+---
 
 ### Team members:
  - [Ella Santapakka](https://ssmiljass.github.io/) - Student (Producer/Designer)
@@ -22,6 +24,7 @@ I also had some level designing and level building with other tasks.
  - Maija Rahkola - Student (Foliage- Environment)
  - Luci Känsäkoski - Student (Enemy Design - Props)
 
+---
 
 ### Gameplay Video
 
