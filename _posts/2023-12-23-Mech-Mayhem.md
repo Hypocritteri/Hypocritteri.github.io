@@ -7,6 +7,8 @@ categories:
   - website
 ---
 
+!(/assets/MECHMAYHEM.png)
+
 ### Overview
 
 "Mech Mayhem" is a 3D mech Shooter made with Unreal Engine 5.1.
