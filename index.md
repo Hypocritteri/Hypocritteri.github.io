@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## About Me
+# About Me
 
 Hi, I'm Kalle!
 
@@ -11,7 +11,7 @@ I'm a enthusiastic art student at [Kajaani University of Applied Sciences](https
 
 I love to make smaller game projects in my spare time and also try out new features in various different game engines. 
 
-I'm mostly in my comfort zone when doing art, but I have done some programming and trying to figure out some simple mechanics what some games have. 
+I'm mostly in my comfort zone when doing art, but I have done some programming and trying to duplicate some simple game mechanics. 
 
 ---
 
