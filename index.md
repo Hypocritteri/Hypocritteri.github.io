@@ -13,4 +13,4 @@ I'm mostly in my comfort zone when doing art, but I have done some programming a
 
 ---
 
-Check the other links if you're interested!
+Check the other links on the sidebar if you're interested!
