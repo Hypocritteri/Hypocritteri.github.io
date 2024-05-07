@@ -14,7 +14,7 @@ categories:
 I was the art-lead in this project, and took care of the workflows, art-style and task distribution within this project.
 I also had some level designing and level building with other tasks. 
 
-Team members:
+### Team members:
  - [Ella Santapakka](https://ssmiljass.github.io/) - Student (Producer/Designer)
  - [Tommi Järvinen](https://prolence.github.io/) - Student (Programming)
  - Kimi Snellman - Student (VFX - Props)
@@ -23,6 +23,6 @@ Team members:
  - Luci Känsäkoski - Student (Enemy Design - Props)
 
 
-## Gameplay Video
+### Gameplay Video
 
---COMING SOONish!--
+--COMING SOON!--
