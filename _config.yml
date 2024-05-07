@@ -1,6 +1,6 @@
 title: "Kalle Tuohimaa"
 author: "Kalle Tuohimaa"
-description: ":)"
+description: "More stuff coming soon!"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,11 +21,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "OtherPage.md", title: "Other"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kalle.tuohimaa@outlook.com"}
-  - {title: Github, icon: github, url: "https://github.com/hypocritteri"}
+  
+  #- {title: Github, icon: github, url: "https://github.com/hypocritteri"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/kalle-tuohimaa-b600a91b4/"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/hypocreatus/"}
   - {title: Itch-Io, icon: itch-io, url: "https://hypocritteri.itch.io"}
+  - {title: ArtStation, icon: artstation, url: "https://www.artstation.com/kalletuohimaa1"}
+  - {title: Contact!, icon: envelope, url: "mailto:kalle.tuohimaa@outlook.com"}
  
 
 comments:

@@ -3,6 +3,6 @@ layout: page
 title: ""
 ---
 
-Other ways to find me and my work!
+Other projects I've done!
 
 --COMING SOONish!--
