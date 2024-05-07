@@ -7,7 +7,7 @@ categories:
   - website
 ---
 
-!(/assets/MECHMAYHEM.png)
+![](/assets/MECHMAYHEM.png)
 
 ### Overview
 
