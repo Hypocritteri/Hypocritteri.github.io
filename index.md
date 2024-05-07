@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Hi, I'm Kalle!"
 ---
 
 # About Me

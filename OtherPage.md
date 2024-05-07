@@ -1,9 +1,7 @@
 ---
 layout: page
-title: ""
+title: "Other Stuff"
 ---
-
-# Other Stuff
 
 Other projects I've done!
 
