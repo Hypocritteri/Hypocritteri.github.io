@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Hi, I'm Kalle!"
+title: "Hello, I'm Kalle!"
 ---
-
-# About Me
 
 Hi, I'm Kalle!
 
